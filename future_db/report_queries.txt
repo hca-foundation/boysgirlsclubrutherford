@@ -1,9 +1,0 @@
--- Feedback query - just have to change dates
-
-select v.email, vp.check_in_time, f.feedback
-from feedback f
-join volunteer v on v.id = f.volunteer_id
-join volunteer_period vp on f.id = vp.feedback_id
-where vp.check_in_time > '2018-05-01 00:00:00'
-and vp.check_out_time < '2018-06-01 00:00:00'
-and f.feedback != ''
