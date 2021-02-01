@@ -1,0 +1,9 @@
+{
+  "name": "boysgirlsclubrutherfordhca-foundation/boysgirlsclubrutherford",
+  "description": "BGCRC volunteer sign-in sign-out platform",
+  "type": "project",
+  "require": {
+    "vlucas/phpdotenv": "^5.2",
+    "firebase/php-jwt": "^5.2"
+  }
+}

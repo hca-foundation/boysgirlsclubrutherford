@@ -1,0 +1,25 @@
+{
+  "name": "npcb",
+  "version": "1.0.0",
+  "description": "Various code snippets for the non-profit community builder web app.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jweedenwright/np-community-builder.git"
+  },
+  "author": "Jeremiah Weeden-Wright",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "jquery": "^1.11.2",
+    "jquery-input-mask-phone-number": "^1.0.14"
+  }
+}

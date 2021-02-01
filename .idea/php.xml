@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/www/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/www/vendor/composer" />
+      <path value="$PROJECT_DIR$/www/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/www/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/www/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/polyfill-ctype" />
+    </include_path>
+  </component>
+</project>
